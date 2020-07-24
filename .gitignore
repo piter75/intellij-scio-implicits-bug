@@ -1,0 +1,11 @@
+# Intellij Idea project files
+.idea
+*.iml
+*.ipr
+*.iws
+
+# project binaries
+target
+
+# mac os x
+.DS_Store
